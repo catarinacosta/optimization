@@ -9,5 +9,7 @@
  * @author Catarina
  */
 public class G {
+	public void metodhG(){
 	
+}
 }
