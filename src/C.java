@@ -12,7 +12,7 @@ public class C {
 	public void metodhC(){
 		
 }
-	public void metodhC2(){
+	public void metodhC1(){
 		
 }
 }
