@@ -10,6 +10,9 @@
  */
 public class C {
 	public void metodhC(){
-	
+		
+}
+	public void metodhC1(){
+		
 }
 }
