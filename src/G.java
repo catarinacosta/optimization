@@ -10,6 +10,6 @@
  */
 public class G {
 	public void metodhG(){
-		System.err.println("");
+		System.err.println("oi");
 }
 }
