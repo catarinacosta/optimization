@@ -9,7 +9,7 @@
  * @author Catarina
  */
 public class F {
-	public void metodhF(){
+	public void metodhF1(){
 		
 }
 }
