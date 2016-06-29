@@ -9,5 +9,7 @@
  * @author Catarina
  */
 public class C {
+	public void metodhC(){
 	
+}
 }
