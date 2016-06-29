@@ -9,5 +9,8 @@
  * @author Catarina
  */
 public class D {
+	public void metodhD(){
+	
+}
 	
 }
