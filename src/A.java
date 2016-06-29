@@ -12,7 +12,7 @@ public class A {
 	public void metodhA(){
 	
 }
-	public void metodhA1(){
+	public void metodhA3(){
 	
 }
 }
